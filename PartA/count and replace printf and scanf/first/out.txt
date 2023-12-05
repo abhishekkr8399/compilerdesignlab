@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    int i;
+    readf("%d",i); writef("%d",i);scanf("%d",i);
+    writef(i);printf("%d",i);printf("%d",i);
+}

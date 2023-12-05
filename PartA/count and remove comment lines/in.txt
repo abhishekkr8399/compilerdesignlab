@@ -1,0 +1,12 @@
+/* c program to 
+simply take input and
+ print output*/
+#include<stdio.h>
+int main(){
+    //memory
+    int i;
+    //input
+    scanf("%d",i);
+    //output
+    printf(i);
+}
